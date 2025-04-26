@@ -7,6 +7,7 @@ def maior_numero(lista):
         return lista[0]
     
     maior_elemento= lista[0]
+    #começando do índice 1 até o final. Ou seja, pula o primeiro elemento (índice 0).
     for numero in lista[1:]:
         if numero> maior_elemento:
             maior_elemento=numero

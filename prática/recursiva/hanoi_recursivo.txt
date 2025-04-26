@@ -1,0 +1,5 @@
+Crie um arquivo de código fonte de Python Hanói recursivo.
+Crie uma função para processar as torres chamando outra função para movimentar os discos.
+Crie uma função para exibir o conteúdo das torres a cada passo.
+Chame a função de forma recursiva.
+Para iniciar o processamento, defina a quantidade de discos, crie as torres e chame para execução a função principal.
